@@ -29,6 +29,10 @@ For detailed instructions, check out the blog post on http://reflowster.com/blog
 ## Contributors
 * jaknoll
 * kaptainkommie
+* djobes
+* chris1642
+* phlkchan
+* heydabop
 
 Please feel encouraged to submit pull requests!
 
